@@ -9,7 +9,7 @@
 #include <input/Input.h>
 #include <time.h>
 #include <trace/Trace.h>
-
+#ifndef _INTERFACE_H
 #define _INTERFACE_H
 void estimatingParameters(int **, int, int, int, int , char *, double, int, bool, double *, int &, double &, double &);
 
