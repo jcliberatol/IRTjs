@@ -1,5 +1,7 @@
 #include <node.h>
 #include <v8.h>
+#include "interface.h"
+
 
 using namespace v8;
 
