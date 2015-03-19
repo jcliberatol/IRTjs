@@ -1,0 +1,3 @@
+[submodule "src/IRT"]
+	path = src/IRT
+	url = https://github.com/jcliberatol/SICSRepository.git
